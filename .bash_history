@@ -25,3 +25,36 @@ gl
 cd
 . .bashrc
 ls
+git remote add origin
+git init
+git add *
+git commit -m "ChatbotNewJJ"
+git remote add origin http://github.com/DHS-APCSA-2016/ChatbotJJNew.git
+git push -u origin master
+git init
+git add *
+git commit -m "ChatbotNewJJ"
+remote add origin http://github.com/DHS-APCSA-2016/ChatbotJJNew.git
+git remote add origin http://github.com/DHS-APCSA-2016/ChatbotJJNew.git
+git push -u origin master
+ls
+pwd
+ls
+ls /
+ls c:/
+ls c:/Users
+ls c:/Users/li89368
+ls c:/Users/li89368/CSA
+ls c:/Users/li89368/CSA/New\ ChatbotJJ
+ls c:/Users/li89368/CSA/New\ ChatbotJJ/ChatbotNewJJ
+cp c:/Users/li89368/CSA/New\ ChatbotJJ/ChatbotNewJJ/*.* .
+ld
+ls
+git add *
+git commit -m "Forgot to add files. Adding now!"
+git push -u origin master
+d
+git init
+ls
+pwd
+li9368@mydusd.org
